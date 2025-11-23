@@ -136,6 +136,7 @@
             this.btnMostrar.TabIndex = 7;
             this.btnMostrar.Text = "Mostrar";
             this.btnMostrar.UseVisualStyleBackColor = true;
+            this.btnMostrar.Click += new System.EventHandler(this.btnMostrar_Click);
             // 
             // dgvPais
             // 

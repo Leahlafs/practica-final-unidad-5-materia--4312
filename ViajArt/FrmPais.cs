@@ -65,7 +65,6 @@ namespace ViajArt
         }
 
 
-
         private void btnActualizar_Click(object sender, EventArgs e)
         {
             try
@@ -136,6 +135,11 @@ namespace ViajArt
             {
                 MessageBox.Show("Error al eliminar: " + ex.Message);
             }
+        }
+
+        private void btnMostrar_Click(object sender, EventArgs e)
+        {
+            CargarDatos();
         }
     }
 }
