@@ -171,6 +171,10 @@
       <DependentUpon>Model1.edmx</DependentUpon>
       <LastGenOutput>Model1.cs</LastGenOutput>
     </Content>
+    <None Include="Resources\destino.png" />
+    <None Include="Resources\Diseño sin título.png" />
+    <None Include="Resources\vuelo.png" />
+    <None Include="Resources\Atrevete a.png" />
     <None Include="Resources\ubicacion.png" />
     <None Include="Resources\naciones-unidas.png" />
     <None Include="Resources\informes.png" />

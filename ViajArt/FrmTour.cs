@@ -223,12 +223,7 @@ namespace ViajArt
         {
 
         }
-        // ruta del video
-        private void axWindowsMediaPlayer1_Enter(object sender, EventArgs e)
-        {
-            axWindowsMediaPlayer1.URL = @"C:\Users\PC\Downloads\O Brasil em 3 minutos.mp4"; // ruta del video
-            axWindowsMediaPlayer1.Ctlcontrols.play();
-        }
+        
     }
 }
 
