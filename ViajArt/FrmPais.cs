@@ -141,6 +141,11 @@ namespace ViajArt
         {
             CargarDatos();
         }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
     
